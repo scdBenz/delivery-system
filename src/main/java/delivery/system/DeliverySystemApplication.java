@@ -9,6 +9,8 @@ public class DeliverySystemApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DeliverySystemApplication.class, args);
 		System.out.println("Hello World");
+		System.out.println("Hello World");
+		System.out.println("Hello World");
 	}
 
 }
